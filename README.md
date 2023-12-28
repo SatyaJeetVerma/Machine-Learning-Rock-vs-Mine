@@ -4,7 +4,7 @@ Dataset Characteristics
 Multivariate
 
 Subject Area
-Physics and Chemistry
+Physics
 
 Associated Tasks
 Classification
